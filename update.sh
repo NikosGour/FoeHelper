@@ -1,7 +1,9 @@
 #!/bin/bash
 
 if [ $# -ne 1 ]
-    then echo "Eisai ilithios vale dir"
+    then 
+    echo "Eisai ilithios vale dir"
+    exit 1
 fi
 
 cd $#
