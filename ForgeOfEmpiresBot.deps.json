@@ -10,7 +10,8 @@
         "dependencies": {
           "AForge.Imaging": "2.2.5",
           "Classes": "1.0.0",
-          "Exceptions": "1.0.0"
+          "Exceptions": "1.0.0",
+          "WindowsInput": "6.3.0"
         },
         "runtime": {
           "ForgeOfEmpiresBot.dll": {}
@@ -53,9 +54,18 @@
           "Microsoft.Win32.SystemEvents": "6.0.0"
         }
       },
+      "WindowsInput/6.3.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/WindowsInput.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
       "Classes/1.0.0": {
         "dependencies": {
-          "System.Drawing.Common": "6.0.0"
+          "System.Drawing.Common": "6.0.0",
+          "WindowsInput": "6.3.0"
         },
         "runtime": {
           "Classes.dll": {}
@@ -108,6 +118,13 @@
       "sha512": "sha512-NfuoKUiP2nUWwKZN6twGqXioIe1zVD0RIj2t976A+czLHr2nY454RwwXs6JU9Htc6mwqL6Dn/nEL3dpVf2jOhg==",
       "path": "system.drawing.common/6.0.0",
       "hashPath": "system.drawing.common.6.0.0.nupkg.sha512"
+    },
+    "WindowsInput/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QK1VRItzNqOdMw/lszEtDSVN9VJipqOtBU657vC0bWJkTtHOs/7wgbSjuRIzZiZIjKng8g4lw+AAGI+nRJdVCw==",
+      "path": "windowsinput/6.3.0",
+      "hashPath": "windowsinput.6.3.0.nupkg.sha512"
     },
     "Classes/1.0.0": {
       "type": "project",
