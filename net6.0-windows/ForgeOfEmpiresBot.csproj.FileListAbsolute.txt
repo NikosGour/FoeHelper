@@ -21,3 +21,4 @@ C:\Users\ngkil\RiderProjects\ForgeOfEmpiresBot\ForgeOfEmpiresBot\obj\Release\net
 C:\Users\ngkil\RiderProjects\ForgeOfEmpiresBot\ForgeOfEmpiresBot\obj\Release\net6.0-windows\ref\ForgeOfEmpiresBot.dll
 C:\Users\ngkil\RiderProjects\ForgeOfEmpiresBot\ForgeOfEmpiresBot\obj\Release\net6.0-windows\ForgeOfEmpiresBot.pdb
 C:\Users\ngkil\RiderProjects\ForgeOfEmpiresBot\ForgeOfEmpiresBot\obj\Release\net6.0-windows\ForgeOfEmpiresBot.genruntimeconfig.cache
+C:\Users\ngkil\RiderProjects\ForgeOfEmpiresBot\ForgeOfEmpiresBot\bin\Release\net6.0-windows\WindowsInput.dll
